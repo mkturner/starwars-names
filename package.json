@@ -1,0 +1,29 @@
+{
+  "name": "starwars-names",
+  "version": "0.1.0",
+  "description": "Get random Star Wars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkturner/starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars",
+    "name",
+    "generator"
+  ],
+  "author": "Marvin T. <contact@marvinkturner.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mkturner/starwars-names/issues"
+  },
+  "homepage": "https://github.com/mkturner/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.1"
+  }
+}
