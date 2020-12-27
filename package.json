@@ -1,5 +1,5 @@
 {
-  "name": "starwars-names",
+  "name": "@mkturner/starwars-names",
   "version": "0.1.0",
   "description": "Get random Star Wars names",
   "main": "src/index.js",
